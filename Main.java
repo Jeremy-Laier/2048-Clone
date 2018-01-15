@@ -6,8 +6,9 @@
 package pkg2048;
 
 /**
- *
- * @author k0028b97
+ * @author JeremyLaier
+ * @verison 1.0
+ * main file, simply executes the gameselector object.
  */
 public class Main {
 
