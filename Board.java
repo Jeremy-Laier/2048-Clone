@@ -32,8 +32,7 @@ import javax.swing.SwingConstants;
  * 2048 The game implemented into java using swing
  * The tiles are controlled via the arrow keys.
  * The goal is to combine the tiles until a 2048 tile is achieved.
- * 5/11/17
- * CSI 1012
+ * @since 5/11/17
  */
 public class Board extends JFrame
 {
